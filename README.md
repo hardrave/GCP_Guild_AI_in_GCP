@@ -1,12 +1,12 @@
 # GCP Guild AOssociation AI Deployment Notebooks
 
-This repository contains two Jupyter notebooks created for the **GCP Guild AOssociation**, providing hands-on guidance for deploying AI models and services using **Google Cloud Platform (GCP)**. Each notebook walks through the steps required to set up, containerize, and deploy AI workloads effectively.
+This repository contains two Jupyter notebooks created for the **GCP Guild AOssociation**, providing hands-on guidance for deploying AI models  to **Google Cloud Run**. Each notebook walks through the steps required to set up, containerize, and deploy AI workloads effectively.
 
 ---
 
 ## Notebooks Overview
 
-### 1. Deploying **Gemma2 2B Model** to Google Cloud
+### 1. Deploying **Gemma2 2B Model** to Google Cloud Run
 
 #### 📄 Description
 This notebook provides a step-by-step guide to deploying the **Gemma2 2B parameter model** on GCP. It covers:
