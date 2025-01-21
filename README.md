@@ -34,4 +34,3 @@ Before running these notebooks, ensure you have the following:
 
 - A **Google Cloud Platform (GCP)** account
 - Enabled billing and access to **Cloud Run** and **Vertex AI**
-## Deployment Steps
